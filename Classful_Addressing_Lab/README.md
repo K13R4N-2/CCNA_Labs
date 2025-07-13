@@ -1,5 +1,5 @@
 # **Notes**
-- Used class a, b & c addresses.
+- Used class A, B & C addresses.
 - One LAN for each respective class.
 # **Difficulty**
 - (1/5)
