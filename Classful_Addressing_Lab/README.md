@@ -1,6 +1,9 @@
 # **Notes**
 - Used class A, B & C addresses.
 - One LAN for each respective class.
+- End device = First usable ip address.
+- Network device = Last usable ip address.
+
 # **Difficulty**
 - (1/5)
 
