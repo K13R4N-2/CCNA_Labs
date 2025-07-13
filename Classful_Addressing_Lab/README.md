@@ -3,7 +3,7 @@
 - One LAN for each respective class.
 - End device = First usable ip address.
 - Network device = Last usable ip address.
-- Switch uneccesary at this point. This is just to test addressing.
+- Switch unneccesary at this point. This is just to test addressing.
 
 # **Difficulty**
 - (1/5)
