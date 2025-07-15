@@ -1,4 +1,4 @@
-# **CCNA_Labs**
+# **CCNA Labs**
 I will be posting all of my own custom packet tracer labs here as I progress through studying CCNA via Jeremy's IT Lab.
 
 ## **Note**
