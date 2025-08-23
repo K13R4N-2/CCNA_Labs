@@ -10,3 +10,6 @@
 - spanning-tree vlan (vlan-id) root secondary
 - spanning-tree portfast default
 - spanning-tree bpduguard enable
+- show spanning-tree
+- show spanning-tree vlan (vlan-id) summary
+- show spanning-tree vlan (vlan-id) detail
