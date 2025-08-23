@@ -4,9 +4,6 @@
 - Default route on R3 pointing to internet router for non-LAN traffic.
 - Not including any configurations to do with inter-vlan routing.
   
-# **Difficulty**
-- (1/5)
-
 # **Network Diagram**
 <img width="665" height="643" alt="Image" src="https://github.com/user-attachments/assets/f40750be-7d7f-4701-91ef-24bf785bc329" />
 
